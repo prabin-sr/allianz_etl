@@ -1,4 +1,4 @@
-# Alliance ETL Task
+# Allianz ETL Task
 HTTP requests, HTML Parsing, grouping and aggregation of datasets, ZipFile processing and Excel Workbooks generation.
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
